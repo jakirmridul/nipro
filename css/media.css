@@ -10,11 +10,11 @@ header{
 .logo{
 	font-size: 20px;
 }
-	.menu {
+.menu {
     margin-left: -25px;
 }
 
-	.menu ul li a {
+.menu ul li a {
     padding: 5px 25px !important;
 }
 .h_btn{
@@ -37,7 +37,7 @@ header{
 /*service start*/
 .c_title h1 {
     margin: 30px 0 40px;
-    }
+}
 .ser_item{
 	margin: 35px 00px 0;
 	padding: 20px 15px 25px;
@@ -62,10 +62,6 @@ header{
 }
 .work_img{
 	margin-top: 50px;
-}
-.box {
-    margin-top: 186px;
-    width: 247px;
 }	
   /*choose me*/
 .choose_item {
@@ -84,14 +80,13 @@ header{
 /*Pricing start*/
 .pr_item{
 	margin-top: 50px;
-	}
+}
 .pr_btn{
 	margin: 20px auto;
 }
 /*Cta start*/
 .cta{
 	height: 150px;
-	
 }
 .cta_h1{
 	font-size: 16px;
@@ -140,7 +135,7 @@ header{
 }
 .tes_h2{
 	margin-top: 10px;
-	}
+}
 .tes_p1{
 	margin: 0 0 ;
 }
@@ -225,10 +220,6 @@ header{
 	    --bs-nav-link-padding-x: 0.4rem !important;
 	    justify-content: center !important;
 	}
-.box {
-    margin-top: 186px;
-    width: 247px;
-}
  /*choose me*/
 .choose_item {
     margin-top: 50px;
@@ -347,10 +338,6 @@ header{
 .cus_nav{
 	    --bs-nav-link-padding-x: 0.4rem !important;
 	}
-.box {
-    margin-top: 282px;
-    width: 336px;
-}
  /*choose me*/
 .choose_item {
     margin-top: 80px;
@@ -473,6 +460,8 @@ header{
 	.menu {
     margin-left: 225px;
 }
+/*Work*/
+
 /*Cta start*/
 .cta_btn{
 	margin: 25px -34px;
